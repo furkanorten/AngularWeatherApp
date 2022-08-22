@@ -1,6 +1,20 @@
 # AngularWeatherApp
 
+## Heroku deployment link
+
+https://fortenweather.herokuapp.com/
+
+### Web application with Angular that shows the weather of the city you are searching for
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Weather API
+
+https://api-ninjas.com/api/weather
+
+## Installing Packages
+
+Run `npm install` for installing node modules.
 
 ## Development server
 
