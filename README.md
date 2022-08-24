@@ -3,9 +3,10 @@
 ### Web application with Angular that shows the weather of the city you are searching for
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
-## Firebase deployment link
+## Firebase deployment links
 
 https://fortenweatherapp.web.app/
+https://fortenweatherapp.firebaseapp.com/
 
 ## Weather API
 
