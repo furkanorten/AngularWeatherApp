@@ -3,9 +3,9 @@
 ### Web application with Angular that shows the weather of the city you are searching for
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
-## Heroku deployment link
+## Firebase deployment link
 
-https://fortenweather.herokuapp.com/
+https://fortenweatherapp.web.app/
 
 ## Weather API
 
